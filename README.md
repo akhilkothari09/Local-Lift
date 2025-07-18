@@ -65,4 +65,8 @@ python backend.py<img width="259" height="433" alt="2" src="https://github.com/u
 Recent B.Tech (ECE) graduate with interests in Embedded Systems and Software Engineering.
 
 
-![Uploading 2.png…]()
+!
+<img width="235" height="435" alt="1" src="https://github.com/user-attachments/assets/a4f309a2-b5fd-408f-85be-312146189534" />
+<img width="259" height="433" alt="2" src="https://github.com/user-attachments/assets/df5bd301-6eae-4ac3-bcbd-2ebd4dd29f92" />
+<img width="236" height="435" alt="3" src="https://github.com/user-attachments/assets/a01b8442-0eee-466a-91b4-626560a222ef" />
+<img width="241" height="428" alt="4" src="https://github.com/user-attachments/assets/21bf1b8a-5c45-4c41-a247-893d04d95aa3" />
