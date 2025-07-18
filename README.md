@@ -41,7 +41,8 @@ pip install flask firebase-admin
 
 3. Start the backend server:
 ```bash
-python backend.py
+python backend.py<img width="259" height="433" alt="2" src="https://github.com/user-attachments/assets/b51d0d7a-1199-4f4c-9b64-2b3c5f71615c" />
+
 ```
 
 4. Open `index.html` in your browser to view the tracking system.
@@ -62,3 +63,6 @@ python backend.py
 
 **Akhil Kothari**  
 Recent B.Tech (ECE) graduate with interests in Embedded Systems and Software Engineering.
+
+
+![Uploading 2.png…]()
