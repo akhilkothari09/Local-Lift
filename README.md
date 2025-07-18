@@ -28,6 +28,8 @@ Local_Lift_Tracking_System/
 └── README.md               # Project documentation
 ```
 
+![struct](https://github.com/user-attachments/assets/1285b8de-ff14-40a8-9635-ee3033a631e8)
+
 ## 🛠️ Setup Instructions
 
 1. Replace the placeholder API keys in `index.html` and `script.js` with your actual:
@@ -37,7 +39,8 @@ Local_Lift_Tracking_System/
 2. Install dependencies:
 ```bash
 pip install flask firebase-admin
-```
+```![WhatsApp Image 2025-07-18 at 3 57 32 PM](https://github.com/user-attachments/assets/aaa64efb-b6f5-480d-abd3-b78159a36e07)
+
 
 3. Start the backend server:
 ```bash
