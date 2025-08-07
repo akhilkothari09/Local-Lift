@@ -28,7 +28,8 @@ Local_Lift_Tracking_System/
 └── README.md               # Project documentation
 ```
 
-![struct](https://github.com/user-attachments/assets/1285b8de-ff14-40a8-9635-ee3033a631e8)
+![WhatsApp Image 2025-06-13 at 7 11 00 PM](https://github.com/user-attachments/assets/833e00b5-5ae3-4ce0-b84a-ba167ad97b6d)
+
 
 ## 🛠️ Setup Instructions
 
